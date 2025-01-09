@@ -82,3 +82,11 @@ blockquote {
     font-style: italic;
     color: #1f2937;
 }
+
+footer {
+    display: flex;
+    color: #E5E7EB;
+    justify-content: center;
+    align-items: center;
+    min-height: 70px;
+}
