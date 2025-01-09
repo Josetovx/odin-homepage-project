@@ -15,8 +15,10 @@ body {
     flex-direction: column;
 }
 
-* {
-    margin: 0;
+main {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
 }
 
 header,
@@ -28,7 +30,8 @@ footer {
 header {
     display: flex;
     justify-content: space-around;
-    padding: 16px;
+    padding: 8px;
+    align-items: center;
 }
 
 .main-nav {
