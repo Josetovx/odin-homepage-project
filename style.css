@@ -55,6 +55,11 @@ ul {
     list-style: none;
 }
 
+a {
+    text-decoration: none;
+    color: #E5E7EB;
+}
+
 .logo {
     font-size: 24px;
     color: #f9faf8;
