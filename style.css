@@ -1,0 +1,19 @@
+html {
+    box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: inherit;
+}
+
+body {
+    font-family: roboto, sans-serif;
+}
+
+header,
+.hero,
+footer {
+    background-color: #1f2937;
+}
