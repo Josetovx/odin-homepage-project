@@ -220,4 +220,6 @@ footer {
     justify-content: center;
     align-items: center;
     min-height: 70px;
+    padding: 26px 0px;
+    font-size: 18px;
 }
