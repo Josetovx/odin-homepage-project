@@ -163,6 +163,15 @@ button {
 
 .quote {
     background-color: #e5e7eb;
+    padding: 96px 200px 86px 224px;
+}
+
+.quote p {
+    text-align: right;
+    font-weight: bold;
+    font-size: 24px;
+    margin-top: -28px;
+    padding-right: 48px;
 }
 
 blockquote {
