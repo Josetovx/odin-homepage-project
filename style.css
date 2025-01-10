@@ -117,6 +117,12 @@ button {
     font-size: 16px;
 }
 
+.information {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
 .information h2 {
     font-size: 36px;
     color: #1f2937;
