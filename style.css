@@ -58,6 +58,8 @@ header {
     background-color: gray;
     height: 220px;
     width: 500px;
+    display: flex;
+    justify-content: center;
 }
 
 .hero-left h1 {
@@ -76,6 +78,13 @@ header {
 .hero-left p {
     margin: 0;
     padding: 10px 0px;
+}
+
+.hero-right p {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #E5E7EB;
 }
 
 ul {
