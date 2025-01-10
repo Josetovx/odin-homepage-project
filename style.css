@@ -181,6 +181,39 @@ blockquote {
     color: #1f2937;
 }
 
+.cta {
+    margin: 100px 160px;
+    border-radius: 10px;
+    display: flex;
+}
+
+.cta-left {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 2;
+    align-items: flex-start;
+    padding: 24px 24px 24px 124px;
+    color: #F9FAF8;
+}
+
+.cta-right {
+    display: flex;
+    flex-grow: 1;
+}
+
+.cta-right button {
+    align-self: center;
+    border: solid #F9FAF8;
+}
+
+.cta-left h2 {
+    margin-bottom: -12px;
+}
+
+.cta-left p {
+    font-size: 18px;
+}
+
 footer {
     display: flex;
     color: #E5E7EB;
